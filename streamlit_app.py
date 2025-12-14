@@ -49,4 +49,4 @@ while True:
     memory_chart.line_chart(memory_df)
     
     # Pause for 1 second
-    time.sleep(1)
+    time.sleep(5)
